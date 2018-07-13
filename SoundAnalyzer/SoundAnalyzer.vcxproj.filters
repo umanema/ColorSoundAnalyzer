@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="src\ofApp.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\addons\ofxFft\src\ofxEasyFft.cpp">
+      <Filter>addons\ofxFft\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\addons\ofxFft\src\ofxFft.cpp">
+      <Filter>addons\ofxFft\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\addons\ofxFft\src\ofxFftBasic.cpp">
+      <Filter>addons\ofxFft\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\addons\ofxFft\src\ofxFftw.cpp">
+      <Filter>addons\ofxFft\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\addons\ofxFft\src\ofxProcessFFT.cpp">
+      <Filter>addons\ofxFft\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\addons\ofxFft\libs\kiss\kiss_fft.c">
+      <Filter>addons\ofxFft\libs\kiss</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\addons\ofxFft\libs\kiss\kiss_fftr.c">
+      <Filter>addons\ofxFft\libs\kiss</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\addons\ofxDatGui\src\ofxDatGui.cpp">
+      <Filter>addons\ofxDatGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\addons\ofxDatGui\src\core\ofxDatGuiComponent.cpp">
+      <Filter>addons\ofxDatGui\src\core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\addons\ofxDatGui\src\libs\ofxSmartFont\ofxSmartFont.cpp">
+      <Filter>addons\ofxDatGui\src\libs\ofxSmartFont</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\addons\ofxXmlSettings\src\ofxXmlSettings.cpp">
+      <Filter>addons\ofxXmlSettings\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\addons\ofxXmlSettings\libs\tinyxml.cpp">
+      <Filter>addons\ofxXmlSettings\libs</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\addons\ofxXmlSettings\libs\tinyxmlerror.cpp">
+      <Filter>addons\ofxXmlSettings\libs</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\addons\ofxXmlSettings\libs\tinyxmlparser.cpp">
+      <Filter>addons\ofxXmlSettings\libs</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\addons\ofxBiquadFilter\src\ofxBiquadFilter.cpp">
+      <Filter>addons\ofxBiquadFilter\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\addons\ofxBiquadFilter\src\ofxBiquadFilterInstance.cpp">
+      <Filter>addons\ofxBiquadFilter\src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{d8376475-7454-4a24-b08a-aac121d3ad6f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons">
+      <UniqueIdentifier>{eed02ba9-becc-4cd4-a83e-ae958a3f58a5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxFft">
+      <UniqueIdentifier>{feede9ff-8bc1-4eb7-9db6-748cfd7b8d2c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxFft\src">
+      <UniqueIdentifier>{e0f22920-0c49-4c85-a555-885dce7908b9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxFft\libs">
+      <UniqueIdentifier>{debccf09-d89a-4982-a134-0278d959a29c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxFft\libs\fftw">
+      <UniqueIdentifier>{ba664ed9-0f5b-4149-b175-d205a4ad0efa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxFft\libs\fftw\include">
+      <UniqueIdentifier>{77d28df2-4b42-46fb-b22f-c4bee457f676}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxFft\libs\kiss">
+      <UniqueIdentifier>{cf574050-f890-453e-a1a5-f955501d09a5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxDatGui">
+      <UniqueIdentifier>{8937b09c-fc0d-4626-9cc1-65625090a7fe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxDatGui\src">
+      <UniqueIdentifier>{8d9cc18f-125c-4533-9ee8-e4c66c3117c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxDatGui\src\components">
+      <UniqueIdentifier>{a18185bb-08c3-4539-99e5-1a0751b37f57}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxDatGui\src\core">
+      <UniqueIdentifier>{772aff7a-4e26-46a6-a9ad-4d8c8d82a022}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxDatGui\src\libs">
+      <UniqueIdentifier>{0529029a-20b2-4833-935b-b7a6a0c14664}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxDatGui\src\libs\ofxSmartFont">
+      <UniqueIdentifier>{beaa8c6c-fbee-4825-b2b4-ca30e24f1eca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxDatGui\src\themes">
+      <UniqueIdentifier>{f1b0d192-327e-4f0e-ad59-4e15d26ee92e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxXmlSettings">
+      <UniqueIdentifier>{a674f1eb-ec15-49bf-839d-d69d7bc506b9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxXmlSettings\src">
+      <UniqueIdentifier>{30b2503d-6ab7-49e1-b438-143badb6dd0d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxXmlSettings\libs">
+      <UniqueIdentifier>{232e123b-a41b-45e8-ba6f-c20bc2c73ce4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxBiquadFilter">
+      <UniqueIdentifier>{6f21cd27-322f-4dee-8576-15707d08aa14}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxBiquadFilter\src">
+      <UniqueIdentifier>{cba877dc-c6b5-4124-a4f5-c49b4dd2db3f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\ofApp.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\addons\ofxFft\src\ofxEasyFft.h">
+      <Filter>addons\ofxFft\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\addons\ofxFft\src\ofxFft.h">
+      <Filter>addons\ofxFft\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\addons\ofxFft\src\ofxFftBasic.h">
+      <Filter>addons\ofxFft\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\addons\ofxFft\src\ofxFftw.h">
+      <Filter>addons\ofxFft\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\addons\ofxFft\src\ofxProcessFFT.h">
+      <Filter>addons\ofxFft\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\addons\ofxFft\libs\fftw\include\fftw3.h">
+      <Filter>addons\ofxFft\libs\fftw\include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\addons\ofxFft\libs\kiss\kiss_fft.h">
+      <Filter>addons\ofxFft\libs\kiss</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\addons\ofxFft\libs\kiss\kiss_fftr.h">
+      <Filter>addons\ofxFft\libs\kiss</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\addons\ofxFft\libs\kiss\_kiss_fft_guts.h">
+      <Filter>addons\ofxFft\libs\kiss</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\addons\ofxDatGui\src\ofxDatGui.h">
+      <Filter>addons\ofxDatGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\addons\ofxDatGui\src\components\ofxDatGui2dPad.h">
+      <Filter>addons\ofxDatGui\src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\addons\ofxDatGui\src\components\ofxDatGuiButton.h">
+      <Filter>addons\ofxDatGui\src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\addons\ofxDatGui\src\components\ofxDatGuiColorPicker.h">
+      <Filter>addons\ofxDatGui\src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\addons\ofxDatGui\src\components\ofxDatGuiControls.h">
+      <Filter>addons\ofxDatGui\src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\addons\ofxDatGui\src\components\ofxDatGuiFRM.h">
+      <Filter>addons\ofxDatGui\src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\addons\ofxDatGui\src\components\ofxDatGuiGroups.h">
+      <Filter>addons\ofxDatGui\src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\addons\ofxDatGui\src\components\ofxDatGuiLabel.h">
+      <Filter>addons\ofxDatGui\src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\addons\ofxDatGui\src\components\ofxDatGuiMatrix.h">
+      <Filter>addons\ofxDatGui\src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\addons\ofxDatGui\src\components\ofxDatGuiScrollView.h">
+      <Filter>addons\ofxDatGui\src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\addons\ofxDatGui\src\components\ofxDatGuiSlider.h">
+      <Filter>addons\ofxDatGui\src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\addons\ofxDatGui\src\components\ofxDatGuiTextInput.h">
+      <Filter>addons\ofxDatGui\src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\addons\ofxDatGui\src\components\ofxDatGuiTextInputField.h">
+      <Filter>addons\ofxDatGui\src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\addons\ofxDatGui\src\components\ofxDatGuiTimeGraph.h">
+      <Filter>addons\ofxDatGui\src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\addons\ofxDatGui\src\core\ofxDatGuiComponent.h">
+      <Filter>addons\ofxDatGui\src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\addons\ofxDatGui\src\core\ofxDatGuiConstants.h">
+      <Filter>addons\ofxDatGui\src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\addons\ofxDatGui\src\core\ofxDatGuiEvents.h">
+      <Filter>addons\ofxDatGui\src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\addons\ofxDatGui\src\core\ofxDatGuiIntObject.h">
+      <Filter>addons\ofxDatGui\src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\addons\ofxDatGui\src\libs\ofxSmartFont\ofxSmartFont.h">
+      <Filter>addons\ofxDatGui\src\libs\ofxSmartFont</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\addons\ofxDatGui\src\themes\ofxDatGuiTheme.h">
+      <Filter>addons\ofxDatGui\src\themes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\addons\ofxDatGui\src\themes\ofxDatGuiThemes.h">
+      <Filter>addons\ofxDatGui\src\themes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\addons\ofxXmlSettings\src\ofxXmlSettings.h">
+      <Filter>addons\ofxXmlSettings\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\addons\ofxXmlSettings\libs\tinyxml.h">
+      <Filter>addons\ofxXmlSettings\libs</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\addons\ofxBiquadFilter\src\ofxBiquadFilter.h">
+      <Filter>addons\ofxBiquadFilter\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\addons\ofxBiquadFilter\src\ofxBiquadFilterInstance.h">
+      <Filter>addons\ofxBiquadFilter\src</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="icon.rc" />
+    <ResourceCompile Include="SoundAnalyzer.rc" />
+  </ItemGroup>
+</Project>

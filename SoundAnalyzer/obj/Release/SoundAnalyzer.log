@@ -1,0 +1,43 @@
+﻿  ofxBiquadFilter.cpp
+  ofxBiquadFilterInstance.cpp
+  ofxDatGuiComponent.cpp
+  ofxSmartFont.cpp
+  ofxDatGui.cpp
+  kiss_fft.c
+  kiss_fftr.c
+  ofxEasyFft.cpp
+d:\of_v0.9.8_vs_release\addons\ofxbiquadfilter\src\ofxBiquadFilterInstance.h(71): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\..\..\addons\ofxBiquadFilter\src\ofxBiquadFilterInstance.cpp)
+  ofxFft.cpp
+..\..\..\..\addons\ofxFft\libs\kiss\kiss_fftr.c(116): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\..\addons\ofxFft\libs\kiss\kiss_fftr.c(117): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\..\addons\ofxFft\libs\kiss\kiss_fftr.c(118): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\..\addons\ofxFft\libs\kiss\kiss_fftr.c(119): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\..\addons\ofxFft\libs\kiss\kiss_fft.c(133): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\..\addons\ofxFft\libs\kiss\kiss_fft.c(134): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ofxFftBasic.cpp
+  ofxFftw.cpp
+  ofxProcessFFT.cpp
+..\..\..\..\addons\ofxDatGui\src\libs\ofxSmartFont\ofxSmartFont.cpp(126): warning C4018: '<': signed/unsigned mismatch
+..\..\..\..\addons\ofxDatGui\src\libs\ofxSmartFont\ofxSmartFont.cpp(128): warning C4018: '<': signed/unsigned mismatch
+..\..\..\..\addons\ofxFft\src\ofxProcessFFT.cpp(102): warning C4101: 'spectralCentroidAccum': unreferenced local variable
+..\..\..\..\addons\ofxFft\src\ofxProcessFFT.cpp(100): warning C4101: 'stdDev': unreferenced local variable
+..\..\..\..\addons\ofxFft\src\ofxProcessFFT.cpp(100): warning C4101: 'deviation': unreferenced local variable
+..\..\..\..\addons\ofxFft\src\ofxProcessFFT.cpp(102): warning C4101: 'spectralWeightsAccum': unreferenced local variable
+..\..\..\..\addons\ofxFft\src\ofxProcessFFT.cpp(102): warning C4101: 'spectralWeights': unreferenced local variable
+..\..\..\..\addons\ofxFft\src\ofxProcessFFT.cpp(100): warning C4101: 'variance': unreferenced local variable
+..\..\..\..\addons\ofxFft\src\ofxProcessFFT.cpp(100): warning C4101: 'mean': unreferenced local variable
+..\..\..\..\addons\ofxFft\src\ofxProcessFFT.cpp(100): warning C4101: 'stdDevAccum': unreferenced local variable
+  tinyxml.cpp
+  tinyxmlerror.cpp
+  tinyxmlparser.cpp
+  ofxXmlSettings.cpp
+  main.cpp
+  ofApp.cpp
+d:\of_v0.9.8_vs_release\addons\ofxfft\src\ofxprocessfft.cpp(217): warning C4700: uninitialized local variable 'avgVal' used
+d:\of_v0.9.8_vs_release\addons\ofxfft\src\ofxprocessfft.cpp(243): warning C4700: uninitialized local variable 'avgVal' used
+d:\of_v0.9.8_vs_release\addons\ofxfft\src\ofxprocessfft.cpp(94): warning C4700: uninitialized local variable 'accumMaxSounds' used
+     Creating library bin\SoundAnalyzer.lib and object bin\SoundAnalyzer.exp
+  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+  SoundAnalyzer.vcxproj -> D:\of_v0.9.8_vs_release\apps\umanema\SoundAnalyzer\SoundAnalyzer\bin\SoundAnalyzer.exe
+  
+  	                   9	D:\of_v0.9.8_vs_release\export\vs\Win32\
